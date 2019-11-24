@@ -24,8 +24,8 @@ https://www.e-education.psu.edu/geog485/node/16
 
 ## 4. Acknowledgments
 
-1. Ing. Yonatan Bustamante, , Especialista en Hidráulica e Hidrología
+1. Ing. Yonatan Bustamante, Especialista en Hidráulica e Hidrología.
 
 2. Ing. Edgardo Meneses
 
-3. Gustavo Atuncar, Especialista en Hidráulica e Hidrología
+3. Gustavo Atuncar, Especialista en Hidráulica e Hidrología.
