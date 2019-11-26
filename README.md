@@ -6,7 +6,18 @@ The purpose of this repository is to provide some tools to facilitate tasks in A
 
 ## 2. Application
 
-Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project in development).
+Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project in development). Some applications are:
+
+* Hydrology
+
+- 
+- 
+
+* Maps
+
+- MXD to PDF
+- MXD to JPG
+
 
 ## 3. References
 
