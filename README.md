@@ -10,13 +10,13 @@ Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project
 
 * Hydrology
 
---
--- 
+>
+> 
 
 * Maps
 
--- MXD to PDF
--- MXD to JPG
+> MXD to PDF
+> MXD to JPG
 
 
 ## 3. References
