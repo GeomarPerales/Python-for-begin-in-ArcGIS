@@ -10,13 +10,12 @@ Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project
 
 * Hydrology
 
->
-> 
+
+ 
 
 * Maps
 
->> MXD to PDF
->> MXD to JPG
+convert many MXD to PDF or JPG.
 
 
 ## 3. References
@@ -40,3 +39,5 @@ https://www.e-education.psu.edu/geog485/node/16
 2. Ing. Edgardo Meneses
 
 3. Gustavo Atuncar, Especialista en Hidráulica e Hidrología.
+
+## 5. 
