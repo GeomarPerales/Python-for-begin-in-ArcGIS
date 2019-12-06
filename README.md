@@ -8,14 +8,13 @@ The purpose of this repository is to provide some tools to facilitate tasks in A
 
 Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project in development). Some applications are:
 
-* Hydrology
-
-
- 
+* Hydrology 
 
 * Maps
 
-convert many MXD to PDF or JPG.
+Some examples are:
+
+- convert many MXD to PDF or/and JPG.
 
 
 ## 3. References
