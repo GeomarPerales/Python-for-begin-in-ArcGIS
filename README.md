@@ -12,7 +12,7 @@ Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project
 
 * GIS
 
-* METEOROLOGY
+* Meteorology
 
 Some examples are:
 
