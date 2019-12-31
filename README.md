@@ -6,7 +6,7 @@ The purpose of this repository is to provide some tools to facilitate tasks in A
 
 ## 2. Application
 
-Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy (Project in development). Some applications are:
+Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy. Some applications are:
 
 * Hydrology 
 
@@ -18,6 +18,7 @@ Some examples are:
 
 - convert many MXD to PDF or/and JPG.
 
+- automatic basin delimitation.
 
 ## 3. References
 
@@ -37,8 +38,7 @@ https://www.e-education.psu.edu/geog485/node/16
 
 1. Ing. Yonatan Bustamante, Especialista en Hidráulica e Hidrología.
 
-2. Ing. Edgardo Meneses
-
 3. Gustavo Atuncar, Especialista en Hidráulica e Hidrología.
 
-## 5. 
+2. Ing. Edgardo Meneses, Especialista SIG.
+
