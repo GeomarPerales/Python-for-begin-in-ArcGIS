@@ -36,7 +36,8 @@ def allMXDtoPDFandJPG(ruta_MXD,calidad):
         arcpy.mapping.ExportToJPEG(current_mxd, jpg,
                                   resolution = calidad,
                                   data_frame = "PAGE_LAYOUT")
-    del mxd
+
+        return mxd_list, pdf, jpg, resolution
 
 if __name__ == '__main__':
     ruta_MXD = arcpy.GetParameter(0)

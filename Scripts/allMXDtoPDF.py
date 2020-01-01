@@ -28,9 +28,9 @@ def allMXDtoPDF(ruta_MXD,calidad):
                                   resolution = calidad,
                                   image_quality = "BEST",
                                   data_frame = "PAGE_LAYOUT")
-        return ruta_MXD, calidad
 
-    del mxd
+        return mxd_list, pdf, resolution
+
 
 if __name__ == '__main__':
     ruta_MXD = arcpy.GetParameter(0)
