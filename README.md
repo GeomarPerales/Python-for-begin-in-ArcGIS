@@ -33,12 +33,3 @@ http://desktop.arcgis.com/es/arcmap/10.3/analyze/arcpy/a-quick-tour-of-arcpy.htm
 3. GIS Programming and Software Development
 
 https://www.e-education.psu.edu/geog485/node/16
-
-## 4. Acknowledgments
-
-1. Ing. Yonatan Bustamante, Especialista en Hidráulica e Hidrología.
-
-3. Ing. Gustavo Atuncar, Especialista en Hidráulica e Hidrología.
-
-2. Ing. Edgardo Meneses, Especialista SIG.
-
