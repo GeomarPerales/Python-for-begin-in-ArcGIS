@@ -6,13 +6,7 @@ The purpose of this repository is to provide some tools to facilitate tasks in A
 
 ## 2. Application
 
-Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy. Some applications are:
-
-* Hydrology 
-
-* GIS
-
-* Meteorology
+Scripts developed to automate some processes in ArcGIS 10.5 using ArcPy.
 
 Some examples are:
 
