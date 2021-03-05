@@ -12,8 +12,6 @@ Some examples are:
 
 - convert many MXD to PDF or/and JPG.
 
-- automatic basin delimitation.
-
 ## 3. References
 
 1. Introduction to arcpy.mapping
